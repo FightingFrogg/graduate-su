@@ -1,0 +1,18 @@
+xwigb	ximage
+
+x2	.bperc
+bias	.wperc
+xcur	.bclip
+wt	.wclip
+va	.balance
+	.cmap
+	.legend
+	.units
+	.legendfont
+	lwidth
+	lheight
+	.lx
+	.ly
+endian	
+interp	blank
+wigclip	blockinterp
