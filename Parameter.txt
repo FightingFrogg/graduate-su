@@ -1,0 +1,12 @@
+x_file_xwigb:   xwigb < x_file.bin n1=1001  d2=.05  \
+		label1="Time (s)" label2="x-position (km)" \
+       		title="x-component" \
+    		perc=99.9 &
+
+z_file_xwigb: 	xwigb < z_file.bin n1=1001 d2=.05 xbox=600 \
+		label1="Time (s)" label2="x-position (km)" \
+       		title="z-component" \
+       		perc=99.9 &
+
+
+
